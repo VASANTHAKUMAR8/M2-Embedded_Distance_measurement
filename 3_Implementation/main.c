@@ -1,9 +1,4 @@
-/*
- * main.c
- *
- *  Created on: Nov 17, 2017
- *      Author: abel
- */
+
 
 #include "i2c_lcd.h"
 #include "inputCapture_timer.h"
