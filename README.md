@@ -3,3 +3,12 @@
 [![Cppcheck](https://github.com/VASANTHAKUMAR8/M2-Embedded_Distance_measurement/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/VASANTHAKUMAR8/M2-Embedded_Distance_measurement/actions/workflows/cppcheck.yml)
 [![Build](https://github.com/VASANTHAKUMAR8/M2-Embedded_Distance_measurement/actions/workflows/compile.yml/badge.svg)](https://github.com/VASANTHAKUMAR8/M2-Embedded_Distance_measurement/actions/workflows/compile.yml)
 
+
+
+## Folder Structure
+Folder               | Description
+-------------------  | -----------------------------------------
+`1_Requirements`     | Documents Detailing requirements and research.
+`2_Design_diagram`     | Documents Specifying design details.
+`3_Implementation`   | All Code and Documentation.
+`4_TestPlan`| Test Cases.
